@@ -24,7 +24,7 @@
   "env": {
     "production": {
       "vars": {
-        "YOUTUBE_API_KEY": "AIzaSyD8by2ePwkkXzkqtJefXSSdmSD34WrMj2E",
+        "YOUTUBE_API_KEY": "AIzaSyD8by2ePwkkXzkqtJefXSSdmSD34WrMj2",
         "YOUTUBE_CHANNEL_ID": "UCwaM48qdZeWsII30OCMnShg",
           "INSTAGRAM_ACCESS_TOKEN": "your_instagram_access_token"
       }
