@@ -12,3 +12,22 @@
   },
   "upload_source_maps": true
 }
+{
+  "name": "swj-podcast-site",
+  "compatibility_date": "2025-11-16",
+  "pages_build_output_dir": ".next",
+  "build": {
+    "command": "npm run build",
+    "cwd": ".",
+    "watch_dir": "."
+  },
+  "env": {
+    "production": {
+      "vars": {
+        "YOUTUBE_API_KEY": "AIzaSyD8by2ePwkkXzkqtJefXSSdmSD34WrMj2E",
+        "YOUTUBE_CHANNEL_ID": "UCwaM48qdZeWsII30OCMnShg",
+          "INSTAGRAM_ACCESS_TOKEN": "your_instagram_access_token"
+      }
+    }
+  }
+}
